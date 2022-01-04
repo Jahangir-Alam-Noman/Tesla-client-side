@@ -80,7 +80,7 @@ const Footer = () => {
 				<div className="text-center">
 					<p className="text-white">
 						©️ All Copyrigths reserved by{" "}
-						<span style={{ color: "orangered" }}>Masudur Rahman</span>
+						<span style={{ color: "orangered" }}>Jahangir Alam Noman</span>
 					</p>
 				</div>
 			</footer>
